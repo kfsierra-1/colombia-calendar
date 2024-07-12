@@ -1,6 +1,6 @@
 <?php
 
-namespace Rdt\Calendar;
+namespace Kevins\Calendar;
 
 use Carbon\Carbon;
 use Illuminate\Support\Collection;
