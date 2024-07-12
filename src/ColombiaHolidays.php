@@ -1,6 +1,6 @@
 <?php
 
-namespace Kevins\Calendar;
+namespace Kevins\ColombiaCalendar;
 
 use Carbon\Carbon;
 use Illuminate\Support\Collection;
